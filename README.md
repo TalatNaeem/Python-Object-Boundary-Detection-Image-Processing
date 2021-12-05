@@ -12,12 +12,12 @@ This is my assignment of Digital Imgae Processing course which consist of four d
 ## Screenshots
 <p align="center" style="font-size:12px;color:dimgray">Q1</p>
 <p align="center">
-    ![](images/q1.png)
+    <img src="images/q1.PNG" alt="Q1"/>
 </p>
 <hr>
 <p align="center" style="font-size:12px;color:dimgray">Q1 Answer</p>
 <p align="center">
-    <img src="images/q1.png" alt="Q1 answer"/>
+    <img src="images/q1a.png" alt="Q1 answer"/>
     <img src="images/q1.png" >
 </p>
 <hr>
