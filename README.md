@@ -17,40 +17,39 @@ This is my assignment of Digital Imgae Processing course which consist of four d
 <hr>
 <p align="center" style="font-size:12px;color:dimgray">Q1 Answer</p>
 <p align="center">
-    <img src="images/q1a.png" alt="Q1 answer"/>
-    <img src="images/q1.png" >
+    <img src="images/q1a.PNG" alt="Q1 answer"/>
 </p>
 <hr>
 
 <p align="center" style="font-size:12px;color:dimgray">Q2</p>
 <p align="center">
-    <img src="images/q2.png" alt="Q2"/>
+    <img src="images/q2.PNG" alt="Q2"/>
 </p>
 <hr>
 <p align="center" style="font-size:12px;color:dimgray">Q2 Answer</p>
 <p align="center">
-    <img src="images/q2a.png" alt="Q2 answer"/>
+    <img src="images/q2a.PNG" alt="Q2 answer"/>
 </p>
 <hr>
 
 <p align="center" style="font-size:12px;color:dimgray">Q3</p>
 <p align="center">
-    <img src="images/q3.png" alt="Q3"/>
+    <img src="images/q3.PNG" alt="Q3"/>
 </p>
 <hr>
 <p align="center" style="font-size:12px;color:dimgray">Q3 Answer</p>
 <p align="center">
-    <img src="images/q3a.png" alt="Q3 answer"/>
+    <img src="images/q3a.PNG" alt="Q3 answer"/>
 </p>
 <hr>
 
 <p align="center" style="font-size:12px;color:dimgray">Q4</p>
 <p align="center">
-    <img src="images/q4.png" alt="Q4"/>
+    <img src="images/q4.PNG" alt="Q4"/>
 </p>
 <hr>
 <p align="center" style="font-size:12px;color:dimgray">Q4 Answer</p>
 <p align="center">
-    <img src="images/q4a.png" alt="Q4 answer"/>
+    <img src="images/q4a.PNG" alt="Q4 answer"/>
 </p>
 <hr>
