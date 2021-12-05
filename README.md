@@ -12,7 +12,7 @@ This is my assignment of Digital Imgae Processing course which consist of four d
 ## Screenshots
 <p align="center" style="font-size:12px;color:dimgray">Q1</p>
 <p align="center">
-    <img src="https://github.com/TalatNaeem/Object-Boundary-Detection-Image-Processing/images/q1.png" alt="Q1"/>
+    ![](images/q1.png)
 </p>
 <hr>
 <p align="center" style="font-size:12px;color:dimgray">Q1 Answer</p>
